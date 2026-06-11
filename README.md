@@ -29,7 +29,7 @@
 </table>
 
 ### A little about me:
-I am learning in Latvia at Riga Technical University. I am 19 years old, and willing to learn more in IT field, for instance, new languages, technologies and ways to achieve the desired goals.
+I am studying in Latvia at Riga Technical University. I am 19 years old, and willing to learn more in IT field, for instance, new languages, technologies and ways to achieve the desired goals.
 
 ### Contact me:
 You can contact me:
