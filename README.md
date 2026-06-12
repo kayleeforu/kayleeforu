@@ -1,4 +1,4 @@
-## Junior Full-Stack Developer
+## Full-Stack Web Developer
 
 ### So far my projects are:
 - Telegram Bot: [**Clip Saver**](https://github.com/kayleeforu/telegramclipsaver), which sends you a video downloaded from a link you send to it
